@@ -1,0 +1,506 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two sermons preach'd at St. Maries in Bury St. Edmunds, at the assizes the first upon the seventh of April 1698, before the Honourable Sir Thomas Rokeby, Kt. ... : the second upon the 16th of August 1698, before the Right, Honourable Sir Edward Ward, Kt. ... / by William Bedford ...</title>
+            <author>Bedford, William, b. 1652 or 3.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 79 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27244</idno>
+            <idno type="STC">Wing B1671</idno>
+            <idno type="STC">ESTC R5177</idno>
+            <idno type="EEBO-CITATION">13083625</idno>
+            <idno type="OCLC">ocm 13083625</idno>
+            <idno type="VID">97271</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27244)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97271)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 408:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two sermons preach'd at St. Maries in Bury St. Edmunds, at the assizes the first upon the seventh of April 1698, before the Honourable Sir Thomas Rokeby, Kt. ... : the second upon the 16th of August 1698, before the Right, Honourable Sir Edward Ward, Kt. ... / by William Bedford ...</title>
+                  <author>Bedford, William, b. 1652 or 3.</author>
+               </titleStmt>
+               <extent>55, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S. Manship ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1]-[2] at end.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Mercy --  Sermons.</term>
+               <term>Justice --  Biblical teaching --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:97271:1"/>
+            <pb facs="tcp:97271:1"/>
+            <p>Mr. <hi>BEDFORD</hi>'s SERMONS AT THE Two Aſſizes HELD AT <hi>Bury St. Edmund's,</hi> 1698.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:97271:2"/>
+            <pb facs="tcp:97271:2"/>
+            <p>TWO SERMONS Preach'd at St. <hi>Maries</hi> in <hi>Bury St. Edmund's,</hi> AT THE ASSIZES.</p>
+            <p>The Firſt, Upon the Seventh of <hi>April</hi> 1698, before the Honourable Sir <hi>Thomas Rokeby</hi> Kt. one of the Juſtices of His Majeſty's Court of Kings-Bench.</p>
+            <p>The Second, Upon the 16th of <hi>Auguſt</hi> 1698, before the Right Honourable Sir <hi>Edward Ward</hi> Kt. Lord Chief Baron of His Majeſty's Court of Exchequer.</p>
+            <p>By <hi>William Bedford,</hi> Maſter of Arts, Rector of <hi>Whitton,</hi> and Vicar of <hi>Stradbrooke</hi> and <hi>Wing field.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>S. Manſhip</hi> at the <hi>Ship</hi> in <hi>Cornhill,</hi> 1698.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:97271:3" rendition="simple:additions"/>
+            <pb facs="tcp:97271:3"/>
+            <head>To the Right Worſhipful <hi>John Cornwallis</hi> Eſquire, <hi>High-Sheriff,</hi> And one of the Deputy-Lieutenants OF THE County of <hi>SUFFOLK.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WHEN the Grand-Juries of the County, conſiſting of ſo many Gentlemen of Honourable and Eminent Qualities, Reputation and Eſtates, (with the Approbation of my Lord Chief Baron) were both pleaſed unanimouſly to declare, That their Opinions were, It would be
+<pb facs="tcp:97271:4"/>uſeful to the Publick that theſe Diſcourſes ſhould be Printed; I thought my ſelf obliged to comply with their Deſires: And the rather, ſeeing I am neither afraid nor aſhamed, to give the most publick Teſtimony of my Fidelity to His Majeſty, and Stedfaſtneſs to the true National In<g ref="char:EOLhyphen"/>terests; and hereby I obtain alſo this occaſion of expreſſing my Gratitude for your many Years Favours and Civilities, being,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your moſt obliged and humble Servant <hi>William Bedford.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="7" facs="tcp:97271:4"/>
+            <epigraph>
+               <q>
+                  <bibl>Geneſis 18.25.</bibl>
+                  <p>That be far from thee to do after this manner, to ſlay the Righteous with the Wicked: And that the Righteous ſhould be as the Wicked, that be far from thee: Shall not the Judge of all the Earth do right?</p>
+               </q>
+            </epigraph>
+            <p>SO juſt and laudable, as well as convenient and uſeful, is this Practice of Juſtice traverſing of our Counties and Provinces; and coming (as it were) home to our Habitations, that one would be apt at the firſt view to conjecture, that this Method had ſome Divine Original from God's own Example. There never was the Invention of any thing publickly beneficial to Mankind, but the Ancients aſcribed it to ſome of their Deities; as Agriculture to <hi>Ceres,</hi> Phyſick to <hi>Aeſculapius,</hi> and Muſick to <hi>Apollo:</hi> Well then may we think the like of this Perambulation of Juſtice, the wholſom Phyſick of the Body Politick; the tuning of the whole Kingdom into the Muſical Harmony of Peace and Concord.</p>
+            <p>I might ſay as St. <hi>Bernard</hi> ſaith (in the like caſe) of the Hierarchy of the Church, <hi>Nec nilem reputes hanc formam, quia in terra eſt, exemplum habet è coelo.</hi>
+               <pb n="8" facs="tcp:97271:5"/>Neither can I think this Method of adminiſtring Juſtice throughout our Provinces a meer Humane Deviſe, but I perſwade my ſelf that the Legiſlator that firſt ordained it, had ſeen this Pattern of it in the Mount of God, and lo, if you deſire for to ſee it, I have found the Pattern it ſelf in this Chapter. Here is God the great Judge of the whole Earth, going his Circuit from Heaven to the Plain of <hi>Mamre,</hi> and from <hi>Mamre</hi> to <hi>Sodom.</hi> This Judge comes to them to their own home, and keep his Aſſizes and General Goal-delivery in their own City, <hi>v.</hi> 21. <hi>Deſcendam &amp; videbo, the Cry of</hi> So<g ref="char:EOLhyphen"/>dom <hi>and</hi> Gomorrah <hi>is great, I will go down</hi> my ſelf to them, and ſee how it ſtands with them.</p>
+            <p>This Judge condemns them not unheard, but ad<g ref="char:EOLhyphen"/>mits Counſel to plead for, and Interceſſors to de<g ref="char:EOLhyphen"/>precate, as <hi>Abraham</hi> in the Text. So long as there lies a <hi>Certierari</hi> from an higher Court, or an Appeal to an higher Court, the Caſe is not deſperate, though the Judge ſhould not do right; for there is a future Remedy to be hoped for. If the whole State were incenſed againſt me, yet I can find an eſcape to another Country: If all the World per<g ref="char:EOLhyphen"/>ſecute me, yet if I be an honeſt Man, I have a Supreme Court in my ſelf; and I am at Peace in being acquitted by my own Conſcience.</p>
+            <p>But God is the unerring Judge of all the Earth, of this which I tread upon, and this Earth which I carry about me; and when he judgeth me, my Conſcience turns upon his ſide, and confeſſeth his Judgment to be right.</p>
+            <p>And therefore St. <hi>Paul</hi>'s Argument <hi>Rom.</hi> 3. ra<g ref="char:EOLhyphen"/>tifies and ſeconds <hi>Abraham</hi>'s Expoſtulation here;
+<pb n="9" facs="tcp:97271:5"/>
+               <hi>Is God unrighteous? God forbid: How then ſhall God judge the World?</hi> A particular Council may err, but then a general Council may help to rectifie that particular: The King may err, but then God, in whoſe Hand the King's Heart is, can rectifie him: But if God that judgeth all the Earth, judge thee, there is no Error to be aſſigned in his Judg<g ref="char:EOLhyphen"/>ment, no Appeal from God not throughly infor<g ref="char:EOLhyphen"/>med, to God better informed, for he always know<g ref="char:EOLhyphen"/>eth all Evidence before it is given, and therefore the larger the Juriſdiction, and higher the Court is, the more careful ought the Judge to be againſt wrong Judgment; for <hi>Abraham</hi>'s Expoſtulation reacheth in a meaſure to them; <hi>Shall not the Judge of all</hi> (or of a great part of the Earth) <hi>do right?</hi>
+            </p>
+            <p>This Judge, <hi>laſtly,</hi> comes not ſolitary or alone, but aſſociated; for in the firſt and third Verſes of this Chapter there are three of them, three Men ſtood by <hi>Abraham;</hi> and in the nineteenth Chapter and the firſt Verſe, at <hi>Sodom</hi> it ſelf where the Judg<g ref="char:EOLhyphen"/>ment was executed there are two of them (which is the number uſual at theſe times with us.)</p>
+            <p>
+               <hi>There came two Angels to</hi> Sodom: A Divine Bench, an honourable Trial; whomſoever we follow of all the Chriſtian Interpreters, whether the Father generally, (as St. <hi>Athanaſius,</hi> St. <hi>Ambroſe,</hi> and <hi>Epi<g ref="char:EOLhyphen"/>phanius</hi>) which expound theſe three to have been the three Perſons of the adored Trinity, in three Humane Shapes aſſumed: Or whither we follow ſome latter Expoſitors, (as <hi>Calvin</hi> and others) who make them to be the ſecond Perſon in Trinity, and two created Angels attending him.</p>
+            <pb n="10" facs="tcp:97271:6"/>
+            <p>For as for <hi>Eben Ezra</hi> and the reſt of the Jews, which make all three of them Angels and meer Creatures, they are ſufficiently confuted by that incommunicable Appellation of the Name <hi>Jehovah,</hi> which <hi>Abraham</hi> ſo often in this Chapter uſeth, when he ſpeaks to them: Thus <hi>Abraham ſaw the day of Chriſt and rejoyced,</hi> as our Lord himſelf teſti<g ref="char:EOLhyphen"/>fieth, <hi>John</hi> 8.56. for ſo to this very Apparition ſome good Expoſitors have referred it: He ſaw his day indeed, he ſaw this day of his, he received him into his Houſe, he feaſted him, he brought him on his way, he found gracious Audience with him, as an Interceſſor and Advocate for others; and all this, even then when Chriſt was going in his In<g ref="char:EOLhyphen"/>dignation to judge <hi>Sodom.</hi> And in this Judgment, as in a Preludium, to ſhew how he will judge the whole World at the great Seſſions of the laſt day, and viſit it with the Flames of an univerſal Com<g ref="char:EOLhyphen"/>buſtion.</p>
+            <p>We ſee then the Tribunal, and the Judge, and the Form of the Proceeding in the courſe of the whole Chapter: Let us come now preciſely to ob<g ref="char:EOLhyphen"/>ſerve the Text, and hear the Advocate <hi>Abraham</hi> pleading here for the Righteous, that they may not be deſtroyed with the Wicked; his Plea is intended principally for <hi>Lot,</hi> who was his Nephew dear to him, and that lived amongſt the <hi>Sodomites;</hi> 'tis intended ſecondarily, for all righteous Perſons, if any other ſuch peradventure were living there: And in the laſt place, in a commendable Compaſſion he would have been glad alſo if it might have been extended to the whole City, and to ſo many Thou<g ref="char:EOLhyphen"/>ſands
+<pb n="11" facs="tcp:97271:6"/>of Perſons as now were about periſhing in it; <hi>Far be that from thee: Shall not the Judge of all the Earth do right?</hi> Which words naturally point out their own diviſion, conſiſting apparently of two parts.</p>
+            <p>The firſt is, a Deteſtation or Averſation, <hi>Far be that from thee.</hi>
+            </p>
+            <p>The other is, a Reaſon, a Motive, an Aetiology, <hi>Shall not the Judge of all the Earth do right?</hi>
+            </p>
+            <p>In the Deteſtation again, which firſt offers it ſelf unto us, there are two things; the Subject of it, and the Degree of it; the Subject deteſted in the word <hi>it</hi> or <hi>that, Far be that from thee.</hi>
+            </p>
+            <p>The Degree of the Deteſtation is twofold, <hi>Gradus ſimplex,</hi> the plain Degree, <hi>be it from thee;</hi> and <hi>Gradus auctus,</hi> or <hi>Gradus cum adjectione,</hi> the empha<g ref="char:EOLhyphen"/>tical Degree, <hi>be it far from thee.</hi> And firſt I will ſpeak of theſe.</p>
+            <p>The Subject of the Deteſtation is expreſſed rela<g ref="char:EOLhyphen"/>tively, <hi>that</hi> or <hi>it, far be it from thee;</hi> and ſo points us back to that which is paſſed already in the for<g ref="char:EOLhyphen"/>mer part of the Verſe, namely, <hi>to ſlay the righteous with the wicked: far be that from thee.</hi> So that here is a Suppoſition of <hi>Abraham</hi>'s and a Poſition, the Suppoſition is, That the Wicked no doubt are to be ſtain, and to be deſtroyed by the Magiſtrate: And no marvel that this is put <hi>extra Controverſiam,</hi> and taken for granted; for what Herbaliſt doth not root up noiſom Weeds? Or what Chyrurgeon doth not cut away all corrupt and putrified Fleſh? <hi>Be<g ref="char:EOLhyphen"/>times will I root out all wicked doers from the City of the Lord</hi> (ſaith the Royal Pſalmiſt, <hi>Pſal.</hi> 101.8.) <hi>Immedicabile vulnus enſe recidendum eſt, ne pars ſin<g ref="char:EOLhyphen"/>cera
+<pb n="12" facs="tcp:97271:7"/>trahatur,</hi> ſaith the Poet. What are the Wicked but Thorns,
+<note place="margin">Cant. 2.2.</note> and what are Thorns but for the Fire? What are they but Chaff,
+<note place="margin">Pſal. 1.4.</note> and what is the Chaff for, but to be ſevered from the Corn, and blown away of the Wind: A Seditious Diſturber of the publick Peace, is a moſt noxious and Savage wild Beaſt, ſaith the Orator, and if it fall into a Pit, let it be overwhelmed there, and come out no more, leaſt it do more hurt. It was with good Signifi<g ref="char:EOLhyphen"/>cation, that the Roman Magiſtrates cauſed to be borne before them <hi>Faſces cum ſecuribus,</hi> Rods and Axes both, whom the Rod corrects not, him the Axe chops off.</p>
+            <p>I take this therefore for granted, as <hi>Abraham</hi> doth, the Wicked are to be deſtroyed: And I come from his Suppoſition to his Poſition, The Righteous ne<g ref="char:EOLhyphen"/>vertheleſs muſt not be deſtroyed with them for company: If it falls out ſo that the Wicked can<g ref="char:EOLhyphen"/>not be cut down, unleſs the Righteous alſo periſh joyntly with them; even the Wicked rather are to be ſpared for the preſent, <hi>Far be it from thee, to ſlay the righteous with the wicked.</hi> 'Tis well this Plea can be in <hi>Sodom,</hi> here is ſome Comfort for us, worth our taking up by the way, the World ſhall never be ſo bad, but there may be ſome hope of finding ſome Righteous, even in thoſe places which are worſt;
+<note place="margin">Joſhua 6. Rev. 3.4. 1 Kings 18.3.</note> in <hi>Sodom</hi> there was a <hi>Lot,</hi> in <hi>Jericho</hi> a <hi>Rahab,</hi> in <hi>Sardis</hi> a few Names which had not de<g ref="char:EOLhyphen"/>filed their Garments. In <hi>Ahab</hi>'s Court a good <hi>Obadiah;</hi> in infamous <hi>Nero</hi>'s Family, <hi>Chriſtians</hi> and <hi>Saints,</hi> Phil. 4.22. The Devil hath but ſowed Tares amongſt the Wheat,
+<note place="margin">Matt. 13.25.</note> he could not ſo root
+<pb n="13" facs="tcp:97271:7"/>the Corn it ſelf out, but that in every Field God will have ſome Wheat. 'Tis a moſt true Axiom in the Schools, <hi>Malum non poteſt exiſtere niſi in bono,</hi> Evil cannot exiſt or be, but in ſomething which is good; and therefore cannot wholly eat out and deſtroy all Good.</p>
+            <p>And here is a Caution alſo for thoſe who have the Sword of Judicature and Authority in their Hands: Be wiſe ye that are Judges of the Earth, pre-judge not a Man wholly by his Place, nor yet by his Company; though the Clamours of the Sins of a Place in general, be as the Clamour and the Cry of <hi>Sodom;</hi> yet <hi>deſcendite &amp; videte,</hi> look into it nearer, and diſtinguiſh of particulars.</p>
+            <p>In <hi>Sodom</hi> there was a <hi>Lot;</hi>
+               <note place="margin">Gen. 27.22.</note> amongſt <hi>Joſeph</hi>'s malicious Brethren there was a <hi>Reuben</hi> that diſ<g ref="char:EOLhyphen"/>ſwaded the Murther of the Child; with the Rob<g ref="char:EOLhyphen"/>bers that were juſtly Crucified, there was a guilt<g ref="char:EOLhyphen"/>leſs Jeſus. Even out of <hi>Nazareth,</hi>
+               <note place="margin">Luke 23.41.</note> in deſpight of the Jewiſh Proverb, <hi>John</hi> 1.46. there may come ſomething which is good: In one and the ſame Goal there may be as well as ſome Malefactors, ſome that are as unjuſtly ſuſpected. In one and the ſame Indictment, there may be ſome Nocent and ſome Innocent.</p>
+            <p>But I touch upon theſe Matters only by the way, but will inſiſt upon the Propoſition it ſelf which <hi>Abraham</hi> lays down here, <hi>The Righteous muſt not be deſtroyed with the Wicked; he which ſlays the Righ<g ref="char:EOLhyphen"/>teous with the wicked,</hi> ſaith <hi>Abraham, to him the righteous are as the wicked, but that muſt not be, far be that from thee.</hi>
+            </p>
+            <pb n="14" facs="tcp:97271:8"/>
+            <p>And ſure it is an invincible Argument, for how foul Injuſtice is it, <hi>Tam in equalibus equalia tribuere,</hi> to deal alike with Perſons ſo unlike. How hor<g ref="char:EOLhyphen"/>rible an Exorbitancy were it, that they ſhould be all one in our Valuation, whom ſo many and un<g ref="char:EOLhyphen"/>ſpeakable Differences have diſtinguiſhed in their own Conditions; I mean the Righteous and the Wicked, their own Intentions which they ſhoot at diſtinguiſh them, the one aims at direct Honeſty and heavenly Piety; the other, at baſe Profit and earthly Pleaſure; their Principles which they go by diſtinguiſh them, the one meaſures his Actions by the publick Good, the other by his private; their Fruits redounding to the Common-wealth do diſtinguiſh them; the one are <hi>paces reipublice,</hi> and the other <hi>faces;</hi> their choice of converſing doth diſtinguiſh them, they come not at each other. The poſitive Laws of Men diſtinguiſh them, they appoint Reward for the one, but Puniſhments for the other.</p>
+            <p>Chriſt's Judgment doth diſtinguiſh them, he will ſet the one at his right Hand, the other at his Left; the place of their eternal Habitation doth diſtinguiſh them, for the one Heaven is pre<g ref="char:EOLhyphen"/>pared, for the other Hell: In one word, from Eter<g ref="char:EOLhyphen"/>nity they were differenced, and to Eternity they ſhall be: They ſtrove in the Womb like <hi>Rebecca</hi>'s Twins; and like the Smoak of <hi>Eteocles</hi> and <hi>Poly<g ref="char:EOLhyphen"/>nices,</hi> when they are dead, they will have no Union; and ſhall then <hi>the righteous be as the wicked?</hi> If that be not <hi>in equalibus equalia tribuere,</hi> what is? Shall there be no difference of a Son and of a Slave? of a Friend and of an Enemy? of a dutiful Subject
+<pb n="15" facs="tcp:97271:8"/>and a plotting Traytor? All other Differences have been reconciled, the Fair <hi>European</hi> and Foul <hi>Negro</hi> marry and live together; Fire and Water meet in the Ingrediency of the mix'd body, Light and Darkneſs concur in one <hi>Crepuſculum,</hi> one dawning of the day; but this diametrical Oppoſition of Righteous and Wicked, hath been and ſtill is at Diſcord, it could never be pacified; <hi>A wicked Man is an Abomination to the Juſt, and he that is upright in his way, is an Abomination to the wicked.</hi>
+            </p>
+            <p>When I conſider therefore, that <hi>Abraham</hi> brings this as a Fundamental Axiom indiſputable, that <hi>the righteous muſt not be ſlain with the wicked;</hi> and that <hi>they muſt not be unto us as the wicked;</hi> and when I weigh the Reaſon of it, I am amazed to think of that ſhameful Lapſe of the good Emperor <hi>Theodoſius,</hi> who upon the account of the private Actions of ſome mutinous Perſons in <hi>Theſſalonica,</hi> ſent his Army upon the City, and promiſcuouſly ſlew the Innocent with the Guilty.</p>
+            <p>It would make one tremble to think of ſuch an erroneous Mandate; but it is enough to over<g ref="char:EOLhyphen"/>whelm any conſidering Perſon with Horrour and Amazement, to call to mind the Domeſtick Ex<g ref="char:EOLhyphen"/>ample of that Infernal Direction of the Romiſh Traytor Father <hi>Garnet,</hi> who being not a Military Prince, but an Eccleſiaſtick profeſſing Peace, not an illiterate rude Souldier, but a Clerk of elaborate Education, not on a ſudden Rage unpremeditated, but upon Deliberation more fully adviſed, ſhould warrant a more Barbarous Reſolution, for being asked by the Popiſh Conſpirators of the Gun<g ref="char:EOLhyphen"/>powder Treaſon, <hi>Whither it was lawful for them
+<pb n="16" facs="tcp:97271:9"/>to deſtroy in our Parliament Houſe many good Men for Company with more bad,</hi> (that is, ſuch as were their Favourers with ſuch as were not) anſwered, <hi>Yea, it was,</hi> Si in grande emolumentum Eccleſiae Romanae ceſſurum ſit, <hi>ſo it might bring evident Ad<g ref="char:EOLhyphen"/>vancement and Benefit to the Roman Church.</hi>
+            </p>
+            <p>If this Oracle did come (as there are good grounds to believe it did) from the then Poſ<g ref="char:EOLhyphen"/>ſeſſor of the Apoſtolical Chair at <hi>Rome,</hi> he was but a painted Wall, and Vice-Demon upon Earth: Doth he claim to be Judge of all the World, and doth he command <hi>the righteous to be ſlain with the wicked?</hi> I am ſure that Judge of all the World, with whom <hi>Abraham</hi> here conferreth, is of other Sentiments, unleſs he will take a ſpice of Mani<g ref="char:EOLhyphen"/>cheiſm, and make two Judges of all the World, one good one, which muſt needs be God, and ano<g ref="char:EOLhyphen"/>ther evil, which muſt be the Devil.</p>
+            <p>But I muſt not, like another <hi>Tarquinius,</hi> ſtrike off the tops only of the talleſt Poppies, tax none but only the Emperor <hi>Theodoſius,</hi> and the Romiſh Pontifex <hi>Maximus;</hi> but the truth is, there are few Men living, of what Condition or Quality ſoever, but one time or other, more or leſs, offend againſt this Rule, and make <hi>the righteous as the wicked.</hi>
+            </p>
+            <p>And to comprize it ſummarily, four ways it may be done:
+<list>
+                  <item>
+                     <hi>Firſt,</hi> By indiſcreet Pitty.</item>
+                  <item>
+                     <hi>Secondly,</hi> By prepoſterous Zeal.</item>
+                  <item>
+                     <hi>Thirdly,</hi> By Atheiſtical Neglect.</item>
+                  <item>
+                     <hi>Fourthly,</hi> By diabolical Malice.</item>
+               </list>
+            </p>
+            <pb n="17" facs="tcp:97271:9"/>
+            <p>Theſe I will very briefly treat of. <hi>Firſt,</hi> It is done by indiſcreet Pitty, when we are ſo childiſhly Compaſſionate, that we deſtroy not them that are incorrigibly Wicked;
+<note place="margin">2 Kings 13.1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> when like <hi>Joaſh</hi> the King of <hi>Iſrael,</hi> we ſmite but thrice at <hi>Aram,</hi> whereas we ought for to ſmite five or ſix times till they were conſumed; when like <hi>Ahab</hi> we let go <hi>Benhadad,</hi>
+               <note place="margin">1 Kings 20.42.</note> the Man appointed for to die, whom God hath de<g ref="char:EOLhyphen"/>livered into our Hands, when we find Man<g ref="char:EOLhyphen"/>ſlaughter for Willful Murther, and with-hold the Hand of Juſtice from them, which with-hold not the Hand of Violence from their Brethren; this is to make <hi>the righteous as the wicked,</hi> for it gives the Wicked the priviledge of Indemnity, which ſhould be peculiar to the Righteous; yea, and more than ſo, by ſparing the Wicked, conſequently it deſtroys the Righteous, it leaves that Serpentine Brood, which will be in the end the Deſtruction of them.</p>
+            <p>
+               <hi>Secondly,</hi> By Prepoſterous Zeal, we make <hi>the Righteous as the Wicked;</hi> when we are too furi<g ref="char:EOLhyphen"/>ouſly hot upon the ſpur, when we haſten ſo to aboliſh the Wicked, that neceſſarily we involve the Righteous in the ſame Ruin, when we are more precipitant than <hi>John</hi> himſelf,
+<note place="margin">2 Kings 10.23.</note> that was ſo furious a Driver; for he would not let looſe his armed Men upon the Prieſts of <hi>Baal,</hi> till he had taken order effectually that there was no Servant of the Lord <hi>Jehovah</hi> left amongſt them. God him<g ref="char:EOLhyphen"/>ſelf, to ſhew that he would ever diſcriminate the Righteous from the Wicked, he would not bring the Deluge (<hi>Gen.</hi> 7.13.) upon the World of the
+<pb n="18" facs="tcp:97271:10"/>Ungodly, till he ſaw that <hi>Noah</hi> was entered into the Ark: Nor would he ſend the deſtroying Angel over <hi>Egypt,</hi> till he knew that the Houſes of the Children of <hi>Iſrael</hi> were ſprinkled with the Paſchal Blood.
+<note place="margin">Exod. 12.23.</note> Neither would he ſuffer the Tares in the Goſpel (<hi>Matt.</hi> 13.29.) to be plucked up before the Harveſt, leſt the Wheat alſo ſhould miſcarry with them. Vice muſt not be ſtabbed through the Loines of Vertue, as in a condemned Woman pleading Pregnancy, our merciful Laws worthily expect the Delivery of her Innocent Child. <hi>Let</hi> Rahab <hi>and her Family be brought ſafe out, and then let</hi> Jericho <hi>be deſtroyed.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> We make <hi>the Righteous like the Wicked,</hi> by Atheiſtical Neglect, when we equally regard neither; when if Gain ſo invite us, we promiſ<g ref="char:EOLhyphen"/>cuouſly oppreſs both: Like that Popiſh Army which having taken a City mixedly inhabited by Proteſtants and Papiſts, put them all indifferently to the Sword, becauſe they would finger the whole Spoil; and when thoſe of their own Popiſh Superſtition fell at their Knees and cried, <hi>We are Catholicks;</hi> they anſwered, <hi>The better for your Souls;</hi> and that was all the Courteſie that they ſhewed them.</p>
+            <p>
+               <hi>Fourthly,</hi> It is done by Diabolical Malice, when Men are at a Defiance with God, and take their Pay in the Camp of Lucifer, when the Righteous are the Men of their Hatred, and they purpoſely ſet themſelves to deſtroy them, but to ſpare the Wicked. When they cry of Murtherous <hi>Barabbas,
+<pb n="19" facs="tcp:97271:10"/>Let him have his Pardon;</hi> but of the Holy Jeſus, <hi>Crucifie him, Crucifie him.</hi> The Righteous are then not only as the Wicked, but in a much worſe caſe than the Wicked. <hi>Abraham</hi> deſired that they might be better than they, but here they may be glad if they may be but as they. So as of old <hi>Ariſtides</hi> muſt have the Oſtraciſm, and be baniſhed for his Juſtneſs, <hi>Nemo apud nos frugi ſit, nemo ex<g ref="char:EOLhyphen"/>cellat, aut ſi excelluerit abeat.</hi> The <hi>Epheſians,</hi> when they baniſhed a worthy Perſon, were not aſhamed to proclaim the Reaſon, becauſe they would have no Man to excel above the reſt; if any Man would be better than others, let him pack away from their Dominions. But I hope no ſuch vain and unequal Dealings will be countenanced in our times, this were to make the appearance of Goodneſs more prejudicial than the Evidence and Con<g ref="char:EOLhyphen"/>viction of Evil. Such Practices ought to be far from us.</p>
+            <p>What I have already ſpoken, ſhall ſuffice for a curſory Declaration of the ways whereby we do make <hi>the Righteous as the Wicked;</hi> of all which four kinds we muſt ſay as <hi>Abraham</hi> here ſaith unto God, <hi>Far be they from us;</hi> all of them muſt be the due ſubjects of our Abomination and de<g ref="char:EOLhyphen"/>teſting Averſation; in ſpecial indeed Injuſtice, but in general all Sin and Vice; which our Gracious King, as the true Vice-gerent of God, is now en<g ref="char:EOLhyphen"/>deavouring to root out, that God may continue to protect this Nation, living in a Courſe of Righ<g ref="char:EOLhyphen"/>teouſneſs, as he hath done already above our Deſerts.</p>
+            <pb n="20" facs="tcp:97271:11"/>
+            <p>Thus having finiſhed the Abhorrence or Abo<g ref="char:EOLhyphen"/>mination <hi>to ſlay the Righteous with the Wicked,</hi> or to eſteem <hi>the Righteous as the Wicked, be it from thee, yea, be it far from thee.</hi> The former, the plain Degree, <hi>be it from thee,</hi> Injuſtice eſpecially; in general, all Iniquity; <hi>be it all from thee.</hi>
+            </p>
+            <p>Here we may ſee the vile Condition of Sin and Impiety; no Commerce can it have with God; no Union with his Nature; no Abode or Footing in his Preſence; it may ſay like Vagabond <hi>Cain, Gen.</hi> 4.14. <hi>Behold, thou haſt driven me out this day from the face of the Earth; and from thy face ſhall I be hid, and I ſhall be a Fugitive and a Vaga<g ref="char:EOLhyphen"/>bond in the Earth: And it ſhall come to paſs, that every one that findeth me, ſhall ſlay me.</hi> And we need no reaſon of this Sentence of perpetual Exile, <hi>Be it from thee,</hi> theſe three words, <hi>It from thee,</hi> are a moſt compleat Reaſon; <hi>it,</hi> which is Miſery; <hi>from thee,</hi> which art Bleſſedneſs; <hi>it,</hi> which is Death; <hi>from thee,</hi> which art Life it ſelf; <hi>it,</hi> which is Un<g ref="char:EOLhyphen"/>cleanneſs; <hi>from thee,</hi> which art Purity; <hi>it,</hi> which is Crookedneſs; <hi>from thee,</hi> which art Rectitude; <hi>it,</hi> which is Darkneſs; <hi>from thee,</hi> which art Light it ſelf: A thouſand Volumes compiled by never ſo <hi>Ciceronian</hi> a Pen, a thouſand Tongues of Men and Angels, could not more graphically paint out the Curſedneſs of Sin and Injuſtice as theſe three words have done, <hi>It from thee,</hi> it is baniſhed from God, the Idea of Goodneſs, the Center and the Circumference of Perfection; and when it is ſaid to be baniſhed from God, we muſt conceive it alſo (for our own Inſtruction) baniſhed from all which any way partake either of the Nature or Name
+<pb n="21" facs="tcp:97271:11"/>of God, from all Judges firſt, for ſo the Scripture ſaith of them, <hi>Dixi Dii eſtis,</hi> I have ſaid ye are Gods, yea, univerſally from all Men; for Man is in a true Senſe <hi>pars Dei,</hi> a piece of God, and there<g ref="char:EOLhyphen"/>fore Sin ought not to be harboured in us. <hi>In God we live, move, and have our Beings. David</hi> ſaith, That God made Man a little lower than the An<g ref="char:EOLhyphen"/>gels; the word will beare, A little lower than God: And indeed our Souls and Bodies are the very Characters of the Divine Image: Our Under<g ref="char:EOLhyphen"/>ſtanding, Will and Memory, are the <hi>Veſtigia,</hi> the Characters of the Divine Trinity; and our Hu<g ref="char:EOLhyphen"/>mane Nature born of the Bleſſed Virgin, hath perſonal Union with the eternal Word. Theſe things plainly evince, that we have ſome Partici<g ref="char:EOLhyphen"/>pation of the Divine Nature, and that the Rege<g ref="char:EOLhyphen"/>nerate partake of the ſame Spirit with God; and therefore this, <hi>Be it from thee,</hi> muſt take place with us alſo. <hi>Be it from</hi> God, and from all that partake of the Nature and the Name of God.</p>
+            <p>I have done with the <hi>Gradus ſimplex,</hi> the plain Degree, but <hi>Abraham</hi> contents not himſelf thus, he adds, <hi>Gradum auctum, Gradum cum adjectione,</hi> the emphatical Degree, <hi>Be it far from thee;</hi> and he adds this when he ſpeaks to God, not to wiſh a thing that is not, but to expreſs and acknowledge a thing that is.</p>
+            <p>The Truth is, there is none but God, of whom we can properly ſay, that Sin is far from him: A Creature may be actually free from Sin, and ſo Sin may be abſent from it; but it is not far abſent from it; as it is ſaid to <hi>Cain, Sin lieth at the door.</hi>
+               <note place="margin">Gen. 4.7.</note>
+               <pb n="22" facs="tcp:97271:12"/>Every rational Creature hath a Door, whereby it may let in Sin, a poſſibility of being depraved and embracing it; but only the eternal God he hath no door, whereby he can let in Sin, his Nature hath an infinite Repugnancy and Incompaſſibility with it; an Angel may Sin, and yet remain an Angel; a Man may Sin, and yet remain a Man; but God cannot have Sin in him and remain God; it cannot conſiſt with his Eſſence, and therefore far it is in<g ref="char:EOLhyphen"/>deed from him, and far be that Blaſphemous Do<g ref="char:EOLhyphen"/>ctrine from us, to make God the Author of any Sin; he cannot be the ſubject of Sin in himſelf, nor can he be the Efficient of Sin in others.</p>
+            <p>Therefore let us enforce our ſelves to a Sacred Emulation of God's glorious Prerogatives as far as may be; let not only Sin be from us, <hi>in gradu ſimplici,</hi> but <hi>in gradu aucto,</hi> let it be far from us; there cannot be too great a diſtance between us and it, <hi>ratione contagii,</hi> in regard of the Contagi<g ref="char:EOLhyphen"/>ouſneſs of it, there cannot be too great a diſtance, if we flee not from it, it will infect us. 'Tis like a Baſilisk, it kills as far as it can be ſeen; 'tis like a <hi>Syren,</hi> it enchants as far as it can be heard. 'Twere good that there were a Peſt-houſe for the Wicked, as there is for them that have the Plague, a <hi>Thracian Boſphorus</hi> where they might live by themſelves, and have no acceſs to other Men to Poyſon them; for it is not enough for us not to approach to them, but they will approach to us.</p>
+            <p>Again, <hi>Ratione ſupplicii,</hi> in regard of the Pu<g ref="char:EOLhyphen"/>niſhment of it, there cannot be too great a di<g ref="char:EOLhyphen"/>ſtance, though we practice it not our ſelves, if
+<pb n="23" facs="tcp:97271:12"/>we be but in company of them that practice it; if they be in our Houſes, if they be in our Towns, we fare the worſe for them; for one <hi>Achan</hi> the whole Army of <hi>Iſrael</hi> flies before their Enemies. Sin was committed on the Earth by <hi>Adam,</hi> and the very Heavens felt the Smart of it; there were malignant Influences then added to thoſe Coeleſtial Bodies, which had not at the firſt been created in them.</p>
+            <p>If Sin get a footing in our Servants, in our Followers, 'tis like an Enemy that hath got a Sconce, or a Cittadel, too near us, from thence it will Gall us too; and therefore when it offers to come and dwell with us, we muſt anſwer it as <hi>Tully</hi> anſwers <hi>Catiline</hi> in the like caſe, <hi>Nullo modo iiſdem in parietibus tute eſſe poſſumus, qui magno in periculo ſumus, quod iiſdem in manibus verſemur.</hi> Far be it from us.</p>
+            <p>I have dwelt long enough upon the Averſa<g ref="char:EOLhyphen"/>tion, <hi>Far be it from thee;</hi> I will nor therefore long detain this Honourable Aſſembly, but recom<g ref="char:EOLhyphen"/>pence it with as much brevity in this other which follows, the Reaſon or Aetiology, <hi>Shall not the Judge of all the Earth do right?</hi> In which words take notice briefly of two things.</p>
+            <p>
+               <hi>Firſt,</hi> The Perfection of Judges; and then the Judge of Perfection. Here you may obſerve a Judge <hi>in abſtracto,</hi> what it is; and <hi>in concreto,</hi> where or in whom it is.</p>
+            <pb n="24" facs="tcp:97271:13"/>
+            <p>
+               <hi>Firſt,</hi> Take notice of the Perfection of a Judge, <hi>in abſtracto,</hi> what it is: It is to do Equity and Right. That is the End and Scope of all Judges, and of all Judgments; that is the Pole-ſtar of all Judicial Actions; Shall not he do Right who is ordained to that end, to decide Controverſies of Right and Wrong? Shall not a Judge do Right?</p>
+            <p>You have heard the Perfection of a Judge <hi>in abſtracto,</hi> what it is; there remains the Perfection of a Judge <hi>in concreto,</hi> where or in whom it is; 'tis not every where, nay, 'tis no where but in God. Abſolute Perfection is the incommunicable Property of the Deity, all created Natures, <hi>Tan<g ref="char:EOLhyphen"/>tum abſunt à Perfectione, quantum à Divinitate,</hi> but in God there is Abſolute Perfection. Negative Queſtions in this kind in Scripture, pre-ſuppoſe always Affirmative Anſwers, <hi>Shall not the Judge of all the Earth do Right?</hi> Yes, he will do it, do it others, or do they not; this Judge will do it.</p>
+            <p>So that God is here deſcribed a perfect Judge in two reſpects:</p>
+            <p>
+               <hi>Firſt,</hi> In the Extent of his Juriſdiction; and in the Exerciſe of it.</p>
+            <p>In the Extent of it, He is a Judge of all the Earth. In the Exerciſe of it, He will do Right, he cannot but do Right; <hi>Shall not the Judge of all the Earth do Right?</hi>
+            </p>
+            <pb n="25" facs="tcp:97271:13"/>
+            <p>The Extent of his Juriſdiction is the whole Earth; 'tis not a Country or two that confine his Circuit; 'tis not a Province or two that bound his Empire; he ſcorneth to borrow a Title as the Old <hi>Romans</hi> did, from one or two Conquered Na<g ref="char:EOLhyphen"/>tions, <hi>Sarmaticus, Geticus, Numidicus,</hi> he hath that which others long for, and cannot have, <hi>Ca<g ref="char:EOLhyphen"/>tholicus, Oecumenicus:</hi> He needs no <hi>plus ultra,</hi> as that <hi>Charlemayn</hi> who confuted his rich Title with his craving Motto, for all the whole Univerſe is his. There is none therefore ſo weak here, but if he be Oppreſſed, ſees an higher Tribunal that he may fly unto. There is none ſo ſtrong here, ſo armed with Authority and Favour, but if he be an Oppreſſor, he ſees a Tribunal that he may fear. No wonder that <hi>Felix</hi> trembled when he heard St. <hi>Paul</hi> diſpute of this Judgment, and of this Judge. From all other Courts there lies an Ap<g ref="char:EOLhyphen"/>peal to him, but from him there lies no Appeal to any other: There is a Commiſſion, againſt which no Prohibition can be brought; we muſt not come there with our <hi>Nemo bis judicabitur de eodem, bis judicabimur de iiſdem;</hi> all Cauſes that have been heard in this World, ſhall be heard again in that Prerogative-Court of Heaven; and what was right adjudged here, ſhall be ratified there; and what was wrong adjudged here, ſhall be repealed there. And finally, What was never heard here at all, yet ſhall be deciſively ordered there.</p>
+            <pb n="26" facs="tcp:97271:14"/>
+            <p>I will ſhut up my Diſcourſe in a few words, (which it becomes me to ſay) to demonſtrate, that the Supream Judge of Heaven and Earth will ever do Right, (according to the Conclu<g ref="char:EOLhyphen"/>ſion of the Text) doth moſt undeniably appear, with relation to the Church of <hi>England,</hi> (as it is by Law eſtabliſhed) in whoſe Cauſe he hath been pleaſed of late to manifeſt his Power and Goodneſs moſt remarkably; and not only in our Days, but he hath done the like in former Ages; for in reſpect of its Doctrine, Diſcipline and Ex<g ref="char:EOLhyphen"/>ternal Rites, he guided the ſolid Foundation there<g ref="char:EOLhyphen"/>of, by that admirable young Prince King <hi>Edward</hi> the Sixth; and ſupported it by the Steadineſs of the Magnanimous Princeſs Queen <hi>Elizabeth,</hi> who (during all her long and glorious Reign) would never admit of any Alterations; no, not in the very Out-works, the External Rites thereof, (which are Securities to the main Fortreſs of our Reli<g ref="char:EOLhyphen"/>gion) though ſhe was frequently ſollicited there<g ref="char:EOLhyphen"/>unto by Men of great Fame and Judgment; and though in the 34th Article of our Church it is owned, That the External part of its Worſhip may admit of Alterations (by publick Authority) upon Emergent Cauſes, and for Reaſons demon<g ref="char:EOLhyphen"/>ſtrably and apparently tending to the Publick Good; and when Times and Mens Manners do re<g ref="char:EOLhyphen"/>quire it.</p>
+            <p>And this Church hath been ſince adorned by the Piety and Devout Practice of the late Virtuous and Bleſſed Queen <hi>Mary,</hi> (who, by the Counte<g ref="char:EOLhyphen"/>nance and Conſent of King <hi>Charles</hi> the Second,
+<pb n="27" facs="tcp:97271:14"/>was moſt happily Married to His Preſent Ma<g ref="char:EOLhyphen"/>jeſty, notwithſtanding all the Secret Oppoſing In<g ref="char:EOLhyphen"/>trigues of the Renegado Jeſuits:) which Famous Princeſs lived and dyed in all the Obſervances of this Church like a Primitive Saint.</p>
+            <p>And it has been not only dignified by the high Reſpect borne toward it by theſe two eminent Princeſſes, who ſet two ſuch Examples as are hardly imitable by the very beſt and braveſt of Womenkind; but it was defended and cheriſhed by the Learning and peaceful Temper of King <hi>James</hi> the Firſt, and by the Piety of Queen <hi>Anne.</hi> And it hath been exceedingly honoured and em<g ref="char:EOLhyphen"/>belliſhed by the Conſtancy, Patience and Cha<g ref="char:EOLhyphen"/>rity of the Devout Martyr King <hi>Charles</hi> the Firſt.</p>
+            <p>And thus ſtood it out againſt all Aſſaults, during the Reign of all our Princes ſince the Reforma<g ref="char:EOLhyphen"/>tion. (Queen <hi>Maries</hi> ſhort Reign, and part of the twenty Years of our Unhappy Civil Wars, and fooliſh Anarchical Governments excepted) after which it was re-eſtabliſhed in courſe of Law upon the wonderful and peaceable Reſtauration of King <hi>Charles</hi> the Second, who at his death left it upon its own Eſtabliſhment.</p>
+            <p>But as to two other Princes that have poſſeſſed the Throne (ſince the Reformation) Queen <hi>Mary</hi> the Firſt, and the late King <hi>James</hi> the Second, they both were pleaſed to give it publick, high and kind Characters at their firſt Acceſſions to their Crowns; and whilſt the Men of our Com<g ref="char:EOLhyphen"/>munion were buſily fixing them into their Royal
+<pb n="28" facs="tcp:97271:15"/>Authorities; and the latter of them, did for ſome conſiderable number of Years, outwardly comply with its Obſervances; (ſo long as the Polititians of the Court of <hi>Rome</hi> would ſuffer him) but their deep Engagements and Confederacies with the <hi>Romans</hi> Party, would not admit them for to countenance it further, and that they openly declined Communion with it, ſhould be no Argu<g ref="char:EOLhyphen"/>ment for any Proteſtant upon Earth to diſlike its Conſtitution, but the rather to embrace and ſup<g ref="char:EOLhyphen"/>port it.</p>
+            <p>How Queen <hi>Maries</hi> Severities increaſed, <hi>Gentle<g ref="char:EOLhyphen"/>men,</hi> your <hi>Suffolk</hi> Anceſtors ſoon felt; and if it had not been for the ſeaſonable Reſcue of King <hi>William,</hi> we might long before this time have Sorrowfully felt alſo, how King <hi>James</hi> would have increaſed; had not King <hi>William</hi> delivered this Church out of all its Imminent and Surpri<g ref="char:EOLhyphen"/>zing Perils; and ſecured it by his Valour, Policy and Indefatigable Vigilance (exerted both in the Fatigues of the Field, and the Management of the Treaty) and with the Security thereof he hath ſuperadded the ancient Luſtre to the Realm of <hi>England,</hi> of becoming once more the Ballance to all the Publick Affairs of <hi>Europe.</hi>
+            </p>
+            <p>And he hath pleaſed to eſpouſe it for his Grand and Profeſſed Deſign, to endeavour to Found us ſuch a Settlement, as may ſecure both our Reli<g ref="char:EOLhyphen"/>gious and Civil Rights to our Poſterities.</p>
+            <p>And towards all theſe he hath made as vigorous Attempts, as the Policy, Reſolution and Integrity
+<pb n="29" facs="tcp:97271:15"/>of the moſt Heroick of our Princes, or the Braveſt of Men can parallel.</p>
+            <p>Therefore we have the higheſt Obligation to follow that Example of the Grateful <hi>Iſraelites</hi> to<g ref="char:EOLhyphen"/>wards King <hi>Solomon,</hi> recorded in 1 <hi>Kings</hi> 8.66. (with with I ſhall conclude.)</p>
+            <q>To Praiſe God, and to Pray daily for the long Life and Grandeur of the King; and to re<g ref="char:EOLhyphen"/>turn to our Houſes joyful and glad of Heart, for all the Goodneſs that the moſt righteous God hath ſhewed unto his Anointed, and unto us his People.</q>
+         </div>
+         <div n="2" type="sermon">
+            <pb facs="tcp:97271:16"/>
+            <pb n="31" facs="tcp:97271:16"/>
+            <head>The Second Sermon.</head>
+            <epigraph>
+               <q>
+                  <bibl>Zechariah 7.9, 10.</bibl>
+                  <p>Thus ſpeaketh the Lord of Hoſts, ſay<g ref="char:EOLhyphen"/>ing, Execute true Judgment, and ſhew Mercy and Compaſſion every Man to his Brother. And oppreſs not the Widow, nor the Fatherleſs, the Stranger, nor the Poor, and let none of you imagine Evil againſt his Brother in your Heart.</p>
+               </q>
+            </epigraph>
+            <p>MY Song ſhall be now, as <hi>David</hi>'s was, of <hi>Mercy</hi> and <hi>Judgment. Judgment</hi> and <hi>Mercy</hi> are the proper Subjects for this time, in which <hi>Righteouſneſs</hi> and <hi>Peace</hi> will the moſt gracefully kiſs each other.</p>
+            <p>The liberty of the Goſpel hath no way abro<g ref="char:EOLhyphen"/>gated the Morality of the Law, for <hi>Chriſt came not to deſtroy, but to fulfil it:</hi> So that this Precept
+<pb n="32" facs="tcp:97271:17"/>of executing <hi>true Judgment and Merty,</hi> is not at all excluded from the Doctrine of the Son of God, but he ratifies the Commands of his Father, ſay<g ref="char:EOLhyphen"/>ing,
+<note place="margin">John 7.24.</note> 
+               <hi>Judge not according to the Appearance, but judge righteous Judgment.</hi>
+            </p>
+            <p>The Nature of this Judgment is either Poli<g ref="char:EOLhyphen"/>tical or Moral; Political, as being proper to a Supreme Governour, and his Subordinate Magi<g ref="char:EOLhyphen"/>ſtrates; or Moral, as implying an Equity between Private Men; whereby every Man is bound, both by the Law of God and Nature, to ſhew Mercy and Compaſſion towards his dejected Brother. By the Law of God, becauſe he ſo commands; by the Laws of Men, becauſe we are all the Sons of <hi>Adam:</hi> Therefore <hi>execute true Judgment, and ſhew Mercy.</hi>
+            </p>
+            <p>It will be a proper Introduction to the reſt, that I ſpeak generally (though briefly) of Judg<g ref="char:EOLhyphen"/>ment in a Politick State: <hi>Jethro</hi> the Father-in-Law of <hi>Moſes,</hi> ſets forth a Preſident of a righte<g ref="char:EOLhyphen"/>ous Judge, according to the Qualities which he ought for to be endued with, ſaying, <hi>Thou ſhalt provide out of all the People,
+<note place="margin">Exod. 18.21.</note> able Men, ſuch as fear God, Men of Truth, hating Covetouſneſs, and place ſuch to be Rulers over them.</hi> Able Men, or Men of Courage and Wiſdom; they muſt be In<g ref="char:EOLhyphen"/>duſtrious, able to diſpatch and expedite Cauſes, <hi>Valentes Ingenio,</hi> Men of ready Wit and Dexte<g ref="char:EOLhyphen"/>rity.</p>
+            <pb n="33" facs="tcp:97271:17"/>
+            <p>
+               <hi>Secondly,</hi> Conſtancy and Strength are requiſite, leſt they quit a good Cauſe for fear of the Mighty; thoſe that have not an adequate Power derived upon them, are dangerouſly Ambitious of ſuch a Dignity: Therefore ſaid the Wiſe Man, <hi>Seek not to be a Judge, being not able to take away Iniquity, leſt at any time thou fear the Perſon of the Mighty, and lay a Stumbling-block in the way of thy <g ref="char:V">Ʋ</g>p<g ref="char:EOLhyphen"/>rightneſs.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> They muſt be Men of Eſtate as well as of Power, of eminent Birth and Eſtimation; therefore <hi>Moſes</hi> in the Fifteenth of <hi>Deuteronomy,</hi> took the chief of the Tribes, Wiſe Men and known, and made them Heads over the People.</p>
+            <p>Our Modern Polititians therefore affirm, <hi>Futius divites quam pauperes in Magiſtratum elegantur.</hi> And they muſt be Men fearing God, that being the Foundation of all Virtue: Beſides, if Men of Might fear not God, when in regard of their great and publick Power, they fear not Men, they are apt to fall into many Outrages; but it behoveth him that judgeth others, to have an exact reſpect unto his Superor Judge, to whom he muſt give an account of all his Acts; let them look unto God in whoſe ſtead they are.</p>
+            <p>They muſt be Men of Truth, both underſtand<g ref="char:EOLhyphen"/>ing the Truth, that they may diſtinguiſh right from wrong: And alſo Followers of the Truth in their Will and Practiſe; for there is a Specu<g ref="char:EOLhyphen"/>lative Truth, in Diſcerning and Judging; and a
+<pb n="34" facs="tcp:97271:18"/>Practicable Truth, in following a right Judg<g ref="char:EOLhyphen"/>ment.</p>
+            <p>They muſt ſeek out the Truth by Witneſſes, Writings and Evidences, and having found it out, give Judgment accordingly: And they muſt be Conſtant, and not changeable in their Sentences and Decrees; and they muſt hate Covetouſneſs, be ſo far from that meanneſs of Spirit, as to have an Abhorrence of it.</p>
+            <p>God who commands others to do Juſtice, is pleaſed for to ſhew the higheſt Example thereof in himſelf; in him there is nothing Unjuſt or Evil, as Coldneſs hath no place in Fire, nor Black<g ref="char:EOLhyphen"/>neſs in Snow, nor Obſcurity in the Sun, no more hath Sin any place in God, nor ſhould it have any ſhelter or countenance from Men.</p>
+            <p>This preſcribed Traytor of our Prince, This Out-law'd Fugitive of our Sovereign, ſhould not be found harboured with them: God hath put the Sword into the Magiſtrates hand to puniſh, and he expects that he ſhould not bear it in vain, Execution is the Life of the Law; the Execu<g ref="char:EOLhyphen"/>tion is as neceſſary as the Promulgation. He that hath Authority, and puniſheth not Diſorders in others, is conſequentially guilty of them himſelf: But they muſt not puniſh more than the Offence, that is too much, and to puniſh leſs, makes but Offenders Inſolent and Multitudinous.</p>
+            <p>Juſtice is <hi>Columna &amp; corona reipublicae,</hi> it is the Cement which holds the general parts of the Body
+<pb n="35" facs="tcp:97271:18"/>Politick together, it is as the Nerves and Sinews thereof, and by it the Throne is eſtabliſhed.</p>
+            <p>Judges are <hi>Juris indices,</hi> they are <hi>Jus dicere</hi> and <hi>Jus dare,</hi> if they do not, then is the Law weakened and perverted, and made to patronize Evil, and Wickedneſs is committed under Authority, and the Law doth turn its edge againſt the Innocent; and that which ſhould be a Defence, becomes a Maze of Briars and Thorns, and the Rod of Juſtice is turned into a Serpent of Subtilty.</p>
+            <p>And ſo it is, if the Jurors give not a ſound Ver<g ref="char:EOLhyphen"/>dict, but make the worſt ſide to ſeem the beſt; this were to be wiſe to do Evil, and not <hi>verum dicere,</hi> as their Office ſignifies. In Juſtice we are not to reſpect Perſons (though that be commanded otherwhere, yet it is forbidden here) here the Cauſes are to be heard, more than the Parties ob<g ref="char:EOLhyphen"/>ſerved; the Equity of Cauſes is to be weighed, not the Quality of Perſons; if otherwiſe, it makes the Law but like Spiders Webs, in which the ſmall Flies are ſtrangled, whilſt the great ones eſcape and break through. Hence haughty ſucceſsful Robbers wear Chains of Gold, whilſt poor Pilferers are bound with Fetters of Iron.</p>
+            <p>The taking of Gifts is a ſecret Preventer of Juſtice, it makes Men to over-ſee God's Laws and the King's; undermines and devours the Houſes of the poor Widow and the deſolate Orphan; theſe blind the Eyes of the Wiſe, and ſtop the
+<pb n="36" facs="tcp:97271:19"/>Mouths of the Skillful: To ſome Perſons the greateſt Evidence is not half ſo convincing as a ſecret Gift; though where Right is, there is the great Point.</p>
+            <p>It is no wonder that good Cauſes fall not out well, if many Hands be open to receive Gifts.</p>
+            <p>It is no wonder if the Evidence of the Witneſſes be ſtrained and diverted; but let ſuch conſider, what meaſure they meet, ſhall at the laſt be mea<g ref="char:EOLhyphen"/>ſured unto them again; not only by God's Judg<g ref="char:EOLhyphen"/>ment hereafter; but upon the Obſervance of his righteous Vicegerents, this Retribution will over<g ref="char:EOLhyphen"/>take them in this Life to their Shame and Sor<g ref="char:EOLhyphen"/>row.</p>
+            <p>Let not thoſe therefore that ſhould be the Sup<g ref="char:EOLhyphen"/>porters of others be their Supplanters; but let Juſtice and Equity be ſo exactly obſerved, that the Voice of Fraud may be no more heard amongſt us; when the Contentious Violence of Men did overflow the Banks of Right, then would God have the Law take ſtrength to it ſelf, to curb Mens fiery Paſſions and Attempts: To this end Judges and Officers of the Law were appointed to ſee the Laws impartially executed, without wreſting or extorting: This is the end of the Law, the Office of the Judge, and the Occaſion of this time.</p>
+            <p>The Charge of the Judicial Office is great, therefore to him that gives the Charge, a Charge is given of God, <hi>Thou ſhalt not wreſt Judgment;</hi>
+               <pb n="37" facs="tcp:97271:19"/>thou ſhalt not reſpect Perſons, nor take a Gift, for the Judgment is not only before Men, but be<g ref="char:EOLhyphen"/>fore God alſo.</p>
+            <p>If they that ſit in Judgment proſpect him that judgeth all the Earth, in the exactneſs of his Judg<g ref="char:EOLhyphen"/>ment, and follow it, their Integrity will grow Pro<g ref="char:EOLhyphen"/>verbial, Like the Judgment of <hi>Bochoris,</hi> or the Sentence of <hi>Bias;</hi> he that thus ſetteth him before his Eyes, ſhall never fear what <hi>Cambyſes</hi> the <hi>Per<g ref="char:EOLhyphen"/>ſian</hi> made <hi>Othones</hi> to do, <hi>Se ſamnem excoriavit, &amp; filium ejus Othonem corio inſidere coegit:</hi> For he hath here a great Terror and Reſtraint, he know<g ref="char:EOLhyphen"/>eth that God ſtandeth in the Congregation of the Judges.</p>
+            <p>But a People ſo wiſely Zealous of their Laws and Liberties (as the <hi>Engliſh</hi>) will not be eaſily impoſed upon; and ſuch Sages of the Laws as we have, that adminiſter ſo exactly, need not any ſuch tremendous Memorials.</p>
+            <p>As in the Pallace of the <hi>Ottoman Emperor,</hi> four of the moſt Honourable Baſſa's ſit in Judgment in the great Hall, and the Grand Seignior himſelf, through a ſecret Window, unheard and unſeen, hears the Complaints of his People, and the Sen<g ref="char:EOLhyphen"/>tences of his Judges: So is our Great God con<g ref="char:EOLhyphen"/>ſcious unto all that Men do here, in their Depu<g ref="char:EOLhyphen"/>tations under him; they muſt therefore remember that no Greatneſs can exempt them from his hi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cenſure, when they willingly corrupt <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>The <hi>Egyptians</hi> of old would not ſuffer the Bodies of their Kings to have Royal Interments,
+<pb n="38" facs="tcp:97271:20"/>till their Lives were ſcan'd, by a ſevere Exami<g ref="char:EOLhyphen"/>nation of their Management of the Regal Scepter whilſt they had it; and as that was approved, their Funeral Honours were augmented or dimi<g ref="char:EOLhyphen"/>niſhed; ſhewing that all Earthly Greatneſs hath an undoubted account, whereunto it is liable and ſtoop<g ref="char:EOLhyphen"/>eth after Death.</p>
+            <p>And Bleſſed is he who ſo judgeth here, as that his Judgment may be approved by that Judge there, he which putteth ſo all Injuſtice far from him, and truly diſtinguiſheth between the Righteous and the Wicked, ſhall be abſolved by that Great Lord, whoſe Servants he himſelf abſolveth, and whoſe Enemies he condemneth. Bleſſed is this Judge as to himſelf, and Bleſſed are the People over whom he preſideth.</p>
+            <p>It is the Judges Buſineſs and Profeſſion to do Right; therefore the <hi>Egyptian</hi> Hieroglyphick pain<g ref="char:EOLhyphen"/>ted him without Hands, with his Eyes almoſt ſhut, and from his Neck a Saphire hanging down, with this word <hi>Veritas</hi> engraven upon it. He muſt have no Hands for Bribes, no Eyes for Siniſter Reſpects, or to reſpect Perſons.</p>
+            <p>To the ſame purpoſe the Image of <hi>Jupiter</hi> was made in <hi>Creta</hi> without Ears: He muſt have no Ears to hear Importunity againſt Juſtice.</p>
+            <p>The <hi>Areopagites</hi> for the ſame cauſe never ſate <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Judgment in the Day, but in the Night-time alwa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and by an obſcure Light, that they might not be moved by Apparel, Habits, Geſtures or Countenances of the Perſons ſummoned before them: And ſurely Injuſtice, though it be a Blemiſh
+<pb n="39" facs="tcp:97271:20"/>to any Man, yet it is not half ſo much a Blemiſh to another Man as to a Judge; diſtaſtful it is in any, but moſt of all in him.</p>
+            <p>And if Right be thus the Pole-ſtar of all Judges in their Judicial Actions, we muſt conceive it to be ſo too in all others, in their Actions Subordinate to Judicial; yea, we muſt give it the due Extent of it.</p>
+            <p>If the Judge muſt Decree right, the Accuſer alſo muſt Object right, the Witneſs muſt Teſtifie right, the Learned Counſellor muſt Plead right, and the Jury muſt Find right, <hi>
+                  <g ref="char:V">Ʋ</g>ltimus finis dat me<g ref="char:EOLhyphen"/>diis ordinem &amp; menſuram,</hi> all theſe will be Plane<g ref="char:EOLhyphen"/>tical ſometimes, and have the proper Motions of their own Sphere, the Plaintiff is hot and fiery like <hi>Mars;</hi> the Defendant is Sullen and Froward like <hi>Saturn,</hi> the Advocate is Crafty and Wily like <hi>Mer<g ref="char:EOLhyphen"/>cury,</hi> the Witneſs is Variable and Changeable like <hi>Luna;</hi> but the Judge, like to the higheſt Orb of the Heavens, muſt over-rule all theſe inferior Spheres of the Planets, and carry them all along in his own diurnal Motion with himſelf.</p>
+            <p>But eſpecially the Advocate muſt be looked into, that he may not too lightly diſpenſe with himſelf, he thinks, though others are bound to the Right, yet he may Sophiſticate and plead wrong; but Equity and Right is the Scope that he ought to aim at; if he will not give Right an helping hand, he ſhould give it none at all.</p>
+            <p>The general Calling of a good Chriſtian, is pre<g ref="char:EOLhyphen"/>ſuppoſed in all particular Callings, a Souldier muſt live by Fighting, but not in fighting a wicked
+<pb n="40" facs="tcp:97271:21"/>Quarrel; and he that Pleads ſhould live honourably by it, but not in bolſtering Oppreſſions againſt the Orphan and the Widow.</p>
+            <p>St. <hi>Tertullian</hi> in his Book of Idolatry, condemns all thoſe Chriſtians moſt deeply, who being Car<g ref="char:EOLhyphen"/>vers, Painters, or Embroiderers, would do any Work whatſoever which had the leaſt and re<g ref="char:EOLhyphen"/>moteſt Subordination to the decking of an Heathen Idol.</p>
+            <p>It were a goodly matter if the Pilot ſhould be bound to arrive at (or ſteer to) the right Haven, and the Oar-men be permitted to row towards the wrong: 'Twere a pretty deviſe, if the Captain were tied to lead the Army to the place of right Service, and the Sentinels have licenſe to miſ in<g ref="char:EOLhyphen"/>form him: And what were it then, if the Judge were enjoyned to award the true Sentence, and the Advocate be ſuffered to patronize the falſe.</p>
+            <p>The famous Civilian <hi>Papinianus,</hi> rather than he would defend the Emperor <hi>Caracalla</hi>'s barbarous Murther of his Brother, willingly admitted of death under that bloody Tyrant.</p>
+            <p>And which you will more wonder at, the no leſs ſamous <hi>Ceſelius</hi> in his Age, he would never be brought by Favour or Fear, ſo much as to draw a Conveiance of any of thoſe Lands, which <hi>An<g ref="char:EOLhyphen"/>thony</hi> and his Fellow-Triumvirs had given away in the Oppreſſion of the Roman Liberties.</p>
+            <p>Famous may the Memory be of ſuch Spirits, and long may the like flouriſh, and deterr or aſhame our Advocates from ſupporting corrupt Cauſes for large Fees: For their Pleadings ought
+<pb n="41" facs="tcp:97271:21"/>not to be conſidered as Sophiſters Acts, tending to the Oſtentation and Exerciſe of Wit, but are ſerious and important Proceedings, that ought to aim totally at Equity and Right.</p>
+            <p>But the Text ſeemeth to require me to ſpeak ſomething of the Moral Equity that ought to be betwixt private Perſons: And that this may be more exerciſed, I will with the Prophet wiſh you by way of intreaty, to <hi>Execute true Judgment, Lex talionis,</hi> the Law of like for like is of great Antiquity, common as well with the <hi>Gentiles</hi> by the Law of Nature, as with the <hi>Jews</hi> by the Law of God, whereby we are taught not to uſe others as we would not be uſed our ſelves; to which ac<g ref="char:EOLhyphen"/>cords that of our Bleſſed Saviour, <hi>Whatſoever you would that Men ſhould do unto you, even ſo do unto them, for this is the Law and the Pro<g ref="char:EOLhyphen"/>phets.</hi>
+            </p>
+            <p>In theſe Admonitions we are taught <hi>Mercy and Compaſſion</hi> when we have our Adverſary in a ſtraight, and to forgive the Delinquences of our Neighbours, as we hope to receive a Remiſſion of our Treſpaſſes committed againſt the Supreme Judge and Father of us all: For after the Exe<g ref="char:EOLhyphen"/>cution of true Judgment, we are admoniſhed for to ſhew Mercy.</p>
+            <p>Amongſt the Heathens, the great <hi>Alexander</hi> is reported to have taken greater delight in Pardon<g ref="char:EOLhyphen"/>ing than Puniſhing an Offender. When <hi>Bias</hi> came to the Condemning of a Man he wept; and <hi>Cicero</hi> profeſſed, <hi>Cum pareere vel ledere poru<g ref="char:EOLhyphen"/>iſſem,
+<pb n="42" facs="tcp:97271:22"/>ignoſcende quaereham cauſas, non puniendi oc<g ref="char:EOLhyphen"/>caſiones;</hi> but to induce us by a greater Authority, God Almighty is our Preſident, and he is ſtiled <hi>Merciful and Long-ſuffering,</hi> and we by our Lord's Command ſhould be the like, <hi>Be you Merciful as your Heavenly Father is Merciful:</hi> And he adds thereunto a Benediction, <hi>Bleſſed are the Merciful, for they ſhall obtain Mercy.</hi>
+            </p>
+            <p>Let us therefore make no Separation between <hi>Juſtice</hi> and <hi>Mercy,</hi> but execute both truly: Let us be blind to inſinuating Impoſtors, and deaf to palli<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting Flatterers; it were better to want Senſe, tha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to judge an unrighteous Judgment, either erring againſt Juſtice or Mercy.</p>
+            <p>God required of the <hi>Jews,</hi> as a Demonſtration of their Repentance,
+<note place="margin">Iſa. 58.6, 7.</note> 
+               <hi>To looſe the Bands of Wick<g ref="char:EOLhyphen"/>edneſs, to undo the heavy Burdens, and to let the Oppreſſed go free, and that they ſhould break every Yoke, to deal their Bread to the Hungry, and to bring the Poor that are caſt out to their Houſes, and when they ſaw the Naked that they cover them, and that they ſhould not hide themſelves from their own Fleſh.</hi>
+            </p>
+            <p>Afflict not the Poor, was the Precept of an anclent Philoſopher, and ſuitably the Prophet in the Text excites Mankind by way of Prohibition, not to oppreſs any Subject to Oppreſſion; <hi>the W<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dow, nor the Fatherleſs;</hi> the <hi>Stringer, nor the Poor; and let none of you imagine Evil againſt his Brother in yo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r heart.</hi>
+            </p>
+            <p>The Sin of Oppreſſion in former times was ex<g ref="char:EOLhyphen"/>pi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted by Death or Baniſhment, as may be ſeen
+<pb n="43" facs="tcp:97271:22"/>by ſome Edicts of our ancient Kings: It was con<g ref="char:EOLhyphen"/>demned of old by the Prophet <hi>Amos, Woe to them that make the Ephah ſmall, but the Shekel great;</hi> to oppoſe the Oppreſſion of the Widow, let there be the Love of an Husband; of an Orphan, let there be the Affection of a Father; of a Stranger, let there be the Hoſpitality of <hi>Abraham;</hi> of the Poor, let there be the Charity of <hi>Job,</hi>
+               <note place="margin">Job 29.12, &amp;c.</note> He <hi>delivered the Poor that cried, the Fatherleſs, and him that had none to help him. The Bleſſing of him that was ready to periſh came upon</hi> him. <hi>And</hi> he <hi>cauſed the Widows heart to ſing for joy.</hi> He <hi>put on Righte<g ref="char:EOLhyphen"/>ouſneſs, and it cloathed him;</hi> and <hi>Judgment was</hi> to him <hi>as a Robe and a Diadem.</hi> He <hi>was Eyes to the Blind, and Feet to the Lame.</hi> He <hi>was a Fa<g ref="char:EOLhyphen"/>ther to the Poor; and the cauſe which</hi> he <hi>knew not,</hi> he <hi>ſearched out.</hi> Then he <hi>brake the Jaws of the Wicked, and plucked the Spoil out of his Teeth.</hi> Then <hi>was</hi> his <hi>Glory freſh in</hi> him, <hi>and</hi> his <hi>Bow was renewed in</hi> his <hi>hand.</hi> He relieved the Neceſſities of diſtreſſed Widowhood, and was a Father to the diſabled Orphans.</p>
+            <p>As we hear the Complaints and Cries of others that are overwhelmed with Calamities, ſo God will hear us, and as we behold them; ſo will he behold us: Therefore ſtop not your Ears at the Cry of the Poor, for whoſe doth, he himſelf alſo ſhall cry aloud, and not be heard.</p>
+            <p>The Prophet <hi>Iſaiah</hi> pronounceth <hi>Woe unto them that decree unrighteous Decrees, and write grievouſneſs which they have preſcribed:
+<note place="margin">Iſa. 10.1, 2, 3.</note> To tarn aſide the Needy from Judgment, and to take away Right from the
+<pb n="44" facs="tcp:97271:23"/>Poor of the People, that Widows may be their Prey, and that they may rob the Fatherleſs. What will</hi> they <hi>do in the day of Viſitation, and in the Deſolation that ſhall come from far? To whom</hi> can they <hi>flee for help? and where will they leave their Glory?</hi>
+            </p>
+            <p>The Prophet <hi>Micah,</hi> Chap. 2. Ver. 1, 2, 3. de<g ref="char:EOLhyphen"/>nounceth <hi>Woe againſt them that practice Miſchief as often as it is in the power of their hands; That covet Fields, and take them by force; and Houſes, and take them violently. Therefore thus ſaith the Lord, Behold, againſt the Family that doth oppreſs a Man and his Houſe, do I deviſe an evil, from which they ſhall not remove their Necks.</hi> The Redeemer of the Poor and Afflicted is Mighty, and he will plead their Cauſe with their Oppreſſors. <hi>Curſed</hi> (ſaith the great Law giver) <hi>be he that perverteth the Judgment of the Stranger, Fatherleſs and Wi<g ref="char:EOLhyphen"/>dow, and all the People ſhall ſay, Amen.</hi> And this is repeated upon ſolemneſt time (in the Com<g ref="char:EOLhyphen"/>mination) by the conſtant Practice of our Church. Oppreſs not a Stranger, injure him not by Word or Deed, neither ſecretly by Fraud, nor openly by Violence; but inſtead of Injury ſhew Kindneſs: We may learn a Preſident from the <hi>Iſraelites</hi> who were Strangers and Bond ſlaves in <hi>Egypt,</hi> they did feel by Experience, what it was for to uſe Stran<g ref="char:EOLhyphen"/>gers cruelly, and learn'd by that Experience (and by God's eſpecial Command) to have Com<g ref="char:EOLhyphen"/>paſſion upon others.</p>
+            <p>Beſides, there are many Reaſons why Strangers ſhould be reſpected, Men of every Nation, Lan<g ref="char:EOLhyphen"/>guage and Country, have originally one common
+<pb n="45" facs="tcp:97271:23"/>Father, and have the Stamp of the ſame Omnipo<g ref="char:EOLhyphen"/>tency upon them.</p>
+            <p>The next kind of Oppreſſion is of the Widow and Fatherleſs; as we are to ſhew Pitty and Com<g ref="char:EOLhyphen"/>paſſion to Strangers that are in Miſery, ſo we are alſo to ſhew Pitty to them that are in Miſery which are no Strangers, as Widows and Orphans. As we muſt not turn aſide the Stranger from his Right, neither muſt we the Widow or the Father<g ref="char:EOLhyphen"/>leſs; if Men regard not their Tears, their God will; and whom they Contemn, he will Favour; though none at all are to be wronged and afflicted, yet theſe eſpecially muſt not be hurt, <hi>Quia defen<g ref="char:EOLhyphen"/>ſorem non habent</hi> (ſaith good St. <hi>Chryſoſtom</hi>) the one wanteth a Father, and the other an Hus<g ref="char:EOLhyphen"/>band.</p>
+            <p>
+               <hi>Oppreſs not the Poor</hi> (ſaith the Text) in gene<g ref="char:EOLhyphen"/>ral; the Poor are commonly oppreſſed by Extor<g ref="char:EOLhyphen"/>tion in Uſury; this is not felt much in the be<g ref="char:EOLhyphen"/>ginning, but at the laſt, <hi>Devorat totam hominis ſubſtantiam,</hi> theſe Extortioners live upon the Poor, and eat them up by their Severities, like Savage Beaſts, by biting of others they feed themſelves; the Men I ſpeak of, are ſuch as make an unrea<g ref="char:EOLhyphen"/>ſonable and illegal Gain of Money, catching at the preſent Neceſſity of others.</p>
+            <p>Theſe Men conſider not, that they are <hi>not to oppreſs the Widow, nor the Fatherleſs, the Stranger, nor the Poor.</hi>
+            </p>
+            <p>
+               <hi>Oppreſs not,</hi> out of theſe Prohibitions, we muſt look to do their contraries; ſince <hi>the Lord of Hoſts</hi>
+               <pb n="46" facs="tcp:97271:24"/>in the Text, hath commanded us for to <hi>ſhew Com<g ref="char:EOLhyphen"/>paſſion every Man to his Brother, and that none of us ſhould imagine Evil againſt his Brother in his heart.</hi>
+            </p>
+            <p>In the Text (you have ſeen) there are four Precepts, two Imperative, and two Prohibitive: The firſt two, of <hi>Judgment</hi> and <hi>Mercy;</hi> the ſecond, of <hi>Oppreſſion</hi> and <hi>Malice.</hi>
+            </p>
+            <p>The Imperative Precepts are, <hi>Execute true Judg<g ref="char:EOLhyphen"/>ment, and ſhew Mercy and Compaſſion every Man to his Brother.</hi>
+            </p>
+            <p>The Prohibitive Precepts; <hi>Oppreſs not the Widow, not the Fatherleſs, the Stranger, nor the Poor, and let none of you imagine evil against his Brother in your heart.</hi>
+            </p>
+            <p>The Author of them both is God, <hi>Thus ſpeaketh the Lord of Hoſts, ſaying.</hi>
+            </p>
+            <p>I have finiſhed all the Parts, except the very laſt, which prohibits Malice; <hi>And let none of you imagine Evil againſt his Brother in your heart.</hi>
+            </p>
+            <p>I ſhall for order ſake (now in the Concluſion) ſpeak of this branch of the Text, and ſomewhat the more largely, becauſe it is to be preſumed, that Inſolence and croſſneſs of Temper brings many Perſons hither; and that their Proſecutions are rather the Effects of Malice, than Deſires of Right; ſuch Mens impertinent, but evil and miſ<g ref="char:EOLhyphen"/>chievous Imaginations, give unneceſſary Trouble to the Court and Country, and deſerve the Magi<g ref="char:EOLhyphen"/>ſtrates
+<pb n="47" facs="tcp:97271:24"/>Reproofs, and to meet with Deriſion and Diſappointment from all men.</p>
+            <p>As the Heart is the beginning of Life, and the Elaboratory of the vital Spirits, ſo it is the Maga<g ref="char:EOLhyphen"/>zine and Store-houſe of Humane Cogitations whi<g ref="char:EOLhyphen"/>ther good or bad, and whereon, as upon an Anvil, are forged thoſe Thoughts which the Tongue its Inſtrument brings to light; for ſo our Bleſſed Lord informs us,
+<note place="margin">Matt. 12.34.</note> That <hi>out of the abundance of the Heart the Mouth ſpeaketh. A good Man out of the good Treaſure of the Heart, bringeth forth good things; and an evil Man out of the evil Treaſure, bringeth forth evil things. Out of the Heart</hi> (ſaith our Lord) <hi>proceed evil Thoughts, Murders, Adul<g ref="char:EOLhyphen"/>teries, Fornications, Thefts, Falſe-witneſs, Blaſphe<g ref="char:EOLhyphen"/>mies;</hi> therefore the Holy Prophet ſhut up his Ex<g ref="char:EOLhyphen"/>hortation with a Prohibition from ſuch Offences, nominating the place wherein they have reſidence, <hi>and let none of you imagine evil againſt his Brother in your heart.</hi>
+            </p>
+            <p>Here obſerve firſt, The Offence and Imagina<g ref="char:EOLhyphen"/>tion of Evil made apparent by Blaſphemy, Envy, Calumny, Revenge, Falſe-witneſs, Murder.</p>
+            <p>
+               <hi>Secondly,</hi> The Reſidence of that Evil, in the Heart, <hi>let none of you imagine evil againſt his Bro<g ref="char:EOLhyphen"/>ther in your heart.</hi>
+            </p>
+            <p>'Tis a Negative Precept, whereby we are here firſt, and by St. <hi>Paul</hi> afterwards, commanded to abſtain from all appearances of Evil; here from evil Thoughts, there from evil Actions; for ſeldom
+<pb n="48" facs="tcp:97271:25"/>doth a perverſe Imagination ſet a Brood, but it hatcheth ſome diſmal Exploit.</p>
+            <p>Thus he that gives himſelf to imagine Evil, will at laſt proceed to give Falſe-witneſs; firſt privately, and then publickly in Judgment; and in Judicial Acts this is diverſly committed:</p>
+            <p>
+               <hi>Firſt,</hi> By the falſe and unjuſt Accuſer; and therefore the Law admoniſheth, <hi>Lev.</hi> 19. <hi>Thou ſhalt not ſtand againſt the Blood of thy Neighbour, thou ſhalt not accuſe him wrongfully, and bring his Life in danger.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> By the Magiſtrate who pronounceth an indirect Sentence.</p>
+            <p>
+               <hi>Thirdly,</hi> By corrupt Advocates that patronize falſe Titles, as <hi>Tertullus</hi> abuſed his Eloquence in diſgracing St. <hi>Paul, Acts</hi> 24. any way to be a Falſe Witneſs, is a grievous thing; he commits Sin in the Violation of Juſtice, and by Lying and Perjury; in every falſe Teſtimony a Man Sins againſt God, oppreſſeth the Innocent, and con<g ref="char:EOLhyphen"/>demneth his own Soul. For Falſe-witneſs, the Puniſhment by the Law of God was Retalia<g ref="char:EOLhyphen"/>tion. <hi>If the witneſs be a Falſe-witneſs, and ſhall teſtifie falſly againſt his Brother; then ſhall you do unto him, as he thought to have done unto his Bro<g ref="char:EOLhyphen"/>ther,</hi> Deut. 19.18, 19.</p>
+            <p>So <hi>Haman</hi> was juſtly hanged on the ſame Gib<g ref="char:EOLhyphen"/>bet that he had ſet up for <hi>Mordecai;</hi> and <hi>Daniel</hi>'s Accuſers were caſt into the Lion's Den, whi<g ref="char:EOLhyphen"/>ther he was before condemned. Falſe Witneſſes were by the Edict of the ancient <hi>Romans,</hi> thrown down as Malefactors from the <hi>Tarpeian-hill.</hi>
+            </p>
+            <pb n="49" facs="tcp:97271:25"/>
+            <p>This Malady hath its original in the Heart of Man, but the Searcher of Hearts can find all out, there is no diſſembling with him that knows the very Thoughts thereof. Though <hi>Joſhua</hi> could not, yet God can immediately ſee through the moſt curious Umbrages and lying Teſtimonials which the moſt Politick <hi>Gibeonites</hi> can invent, though Falſities were never ſo cunningly couched, he will find them out, though a <hi>French</hi> Tongue con<g ref="char:EOLhyphen"/>ſpired with a <hi>Spaniſh</hi> Arrogance to frame a Greekiſh Lye.</p>
+            <p>Therefore God will avenge the Hurt that we do to an Innocent Neighbour, if we Blaſpheme him either in Name, or in Perſon, as <hi>Jezebel</hi> pro<g ref="char:EOLhyphen"/>cured <hi>Naboth</hi> to be thought a Blaſphemer of God and the King, and thereupon had him-Murthered: Of this ſort of Calumny or Backbiting there are four kinds.</p>
+            <p>
+               <hi>Firſt,</hi> Men begin with Evil Suſpicions, of which <hi>Eliab</hi> was guilty, when he ſaid to his Brother <hi>David, I know thy Pride, and the Naughtineſs of thy Heart,</hi>
+               <note place="margin">1 Sam. 17.28.</note> 
+               <hi>for thou art come down that thou mighteſt ſee the Battel.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> They proceed therein, having itching Ears ready and open to receive Detractions; ſuch were <hi>Saul</hi>'s, who leaned to thoſe Promoters that informed againſt <hi>David,</hi> till <hi>David</hi> demonſtrated them to be falſe Men, by his ſparing of <hi>Saul</hi>'s Life in the Cave at <hi>Engaddi.</hi>
+            </p>
+            <p>The third procedure in this Vice, is by Raſhneſs in Judging; but this our Lord forbids in theſe pregnant words, <hi>Judge not, and you ſhall not be judged.</hi>
+               <pb n="50" facs="tcp:97271:26"/>And this Evil is finiſhed by a continual but an unhappy Inclination or malicious Deſire of Back<g ref="char:EOLhyphen"/>biting, the Laws utterly forbids this, <hi>Lev.</hi> 19.16. <hi>Thou ſhalt not go up and down as a Tail bearer amongst thy People:</hi> Theſe being the moſt Peſti<g ref="char:EOLhyphen"/>lent ſort of Vagabonds, ſhould be whip'd from every Houſe.</p>
+            <p>He that Back-bites his Neighbour, hath Satan in his Mouth; he that hears the Calumny, hath him in his Ear; and he that believes it, hath him in his Heart, having caſt out Charity, which is the Bond of Peace.</p>
+            <p>The Puniſhment that the Witty Comedian a lots them is, That all Libellers ſhould hang the Hearers by the Ears, and the Detractors by the Tongues. To credit Falſe Reports and Seditious News, is a ſign of malevolent Manners, or of childiſh Con<g ref="char:EOLhyphen"/>ditions: And therefore the Philoſopher being asked what Beaſt did bite the ſoareſt, anſwered, Of wild Beaſts, a Detractor; and of tame, a Flat<g ref="char:EOLhyphen"/>terer.</p>
+            <p>Therefore hath our Great God forbidden all evil Surmiſes; yet having an Eye to our Frailty, he would ſtint us betimes, leſt we ſhould proceed to wicked Practices; therefore he ſtops the next Iſſue of an evil Heart, ſaying, <hi>Thou ſhalt not bear Falſe-witneſs againſt thy Neighbour;</hi> forewarn<g ref="char:EOLhyphen"/>ing us againſt all Untruths and falſe Evidences. We muſt not admit of evil Thoughts, for theſe are the firſt Actors of our Brothers Tragedy, for out of the Heart proceed evil Thoughts, Falſe-witneſs, Murthers, <hi>&amp;c.</hi> Here the Scene of bloody
+<pb n="51" facs="tcp:97271:26"/>Thoughts is finiſhed, for Murther is either In<g ref="char:EOLhyphen"/>ternal or External; the Internal likewiſe is Two<g ref="char:EOLhyphen"/>fold, either conceived, as in Anger, Hatred, De<g ref="char:EOLhyphen"/>ſire of Revenge, or elſe permitted by conſenting to another Man's Death, <hi>Who knowing the Judg<g ref="char:EOLhyphen"/>ment of God, (that they who do ſuch things are worthy of death) not only do the ſame, but have pleaſure in, or favour them that do them,</hi> Rom. 1.32.</p>
+            <p>The External is actually committed by hand, as Wounding, and ſo conſequently Slaying; by the Mouth, as Reviling, and giving Pernicious Counſel; by Help, as adminiſtring Aid, and ſo being acceſſary to the Murther: This External Murther is either wiſhed in Words, attempted in Geſtures, or perpetrated in Deed.</p>
+            <p>There is an External Act of Murther likewiſe forbidden, that is committed by haſty Rage, Ma<g ref="char:EOLhyphen"/>lice, Envy, <hi>&amp;c.</hi>
+            </p>
+            <p>The Law of God is Spiritual, and therefore it binds not only the Hands and Tongue, but the Heart and Affections alſo: As our bleſſed Saviour, the beſt Interpreter of the Law teacheth; He that is angry with his Brother without a cauſe, in re<g ref="char:EOLhyphen"/>ſpect of his own Will and Purpoſe, hath com<g ref="char:EOLhyphen"/>mitted Man-ſlaughter; and therefore the Apoſtle ſaith, <hi>He that hateth his Brother is a Man-ſlayer,</hi> 1. <hi>John</hi> 3.15.</p>
+            <p>A good Phyſician doth not only take away the Evil that is apparent, but alſo removes the very Root of the Diſeaſe; therefore our bleſſed Saviour not only forbids to take heed of Murther, but of
+<pb n="52" facs="tcp:97271:27"/>Anger alſo; for Homicide and Murther are en<g ref="char:EOLhyphen"/>gendered by Anger and Rage.</p>
+            <p>You have now heard the Effects which an Evil Heart doth produce, the Inconveniencies that it enſnares the Soul of Man with, let none of us therefore be ſo defrauded and ſeduced, but rather to <hi>Execute true Judgment, and ſhew Mercy and Com<g ref="char:EOLhyphen"/>paſſion every Man to his Brother; and oppreſs not the Widow, nor the Fatherleſs, the Stranger, nor the Poor, and let none of you imagine evil againſt his Brother in your Heart.</hi>
+            </p>
+            <p>That none of theſe Evils may be countenanced, the Laws of God and of this Realm have conſti<g ref="char:EOLhyphen"/>tuted Judges and Officers to obſerve, and to for<g ref="char:EOLhyphen"/>bid and puniſh them.</p>
+            <p>And it did pleaſe Almighty God, to ſet before us the very Model of executing Juſtice, by ſend<g ref="char:EOLhyphen"/>ing his great Officers upon the place to make their Inqueſt; (which Method our Wiſe Laws have therefore eſpouſed,) and my Lords the King's Judges purſue it now in their ſeveral Circuits. 'Tis in 1. <hi>Sam.</hi> 7.15, 16, 17. <hi>And</hi> Samuel <hi>judged</hi> Iſrael <hi>all the days of his Life. And he went from year to year in Circuit to</hi> Bethel, <hi>and</hi> Gilgal, <hi>and</hi> Mizpeh, <hi>and judged</hi> Iſrael <hi>in all thoſe places. And his return was to</hi> Ramah, <hi>for there was his Houſe, and there he judged</hi> Iſrael, <hi>and there he built an Altar unto the Lord.</hi>
+            </p>
+            <p>
+               <hi>Samuel</hi> began at <hi>Bethel</hi> where was the Houſe of God, and at the finiſhing of his Circuit at
+<pb n="53" facs="tcp:97271:27"/>
+               <hi>Ramah</hi> he built an Altar and praiſed God; which is the Foundation of this Honourable and Solemn Audience, before which I having made ſuch ſuit<g ref="char:EOLhyphen"/>able Obſervations (upon the Text) as the time and the publick Affairs will admit of.</p>
+            <p>I will cloſe up all with a very few words of general Advice, and publick Exhortation, deſiring every Perſon in this great Aſſembly, ſeriouſly to conſider, as it becomes them in their Allegiance, That as on the one ſide the King's Majeſty hath ended the late War gloriouſly, and is raiſing a ſolid and defenſive Superſtructure upon the Foun<g ref="char:EOLhyphen"/>dation of the Peace: So the late unparallell'd Par<g ref="char:EOLhyphen"/>liament (that Phenix-like can only ariſe again out of its own Aſhes of Diſſolution) hath gratefully and honourably provided for the King's Support, that he may enjoy the compleat Luſtre and Repoſe of his Succeſſes. And indeed, they that were not Zealous to Support our King, might juſtly have been ſuſpected to be in Penſion with a Forreign King.</p>
+            <p>Our Dangers diſappear and vaniſh, and our Charges will begin to leſſen, which though for many Years they have been great, yet were they our very Security.</p>
+            <p>Since therefore our publick Charges, as well as our publick Hazards, will decline together, (unleſs evil and fooliſh Men, by clamouring unſeaſonably againſt them, entail them upon themſelves and
+<pb n="54" facs="tcp:97271:28"/>us too) Let us unite in Amity and Friendſhip; and forget all Names of Diſtinction, and decline all peeviſh and clandeſtine Projects one againſt ano<g ref="char:EOLhyphen"/>ther: Then aſſuredly will our Enemies be weakened and infatuated by our Reconciliation, and our own Intereſts be ſtrengthned and eſtabliſhed; So that every diſcreet Obſerver may ſay with Holy <hi>David:</hi>
+               <q>Behold! How good and joyful a thing it is, for Brethren to dwell together in <g ref="char:V">Ʋ</g>nity.</q>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:97271:28"/>
+            <head>Books Printed for, and Sold by <hi>S. Manſhip,</hi> at the <hi>Ship</hi> in <hi>Cornhil,</hi> near the <hi>Royal-Exchange.</hi>
+            </head>
+            <p>A Treatiſe of Sacramental Covenanting with Chriſt: Shewing the Ungodly their Contempt of Chriſt, in their Contempt of the Sacramental Co<g ref="char:EOLhyphen"/>venanting. With a Preface chiefly deſigned for the Satisfaction of Diſſenters; and to exhort all Men to Peace and Unity. The Fourth Edition, in Octavo. Price bound 2 <hi>s.</hi>
+            </p>
+            <p>An Explication of the Creed, the Ten Command<g ref="char:EOLhyphen"/>ments, and the Lord's Prayer; with the Addition of ſome Forms of Prayer. Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>A Dialogue between two Proteſtants (in Anſwer to a Popiſh Catechiſm, called, <hi>A Short Catechiſm againſt the Sectaries.</hi>) Plainly ſhewing, that the Members of the Church of <hi>England</hi> are no Sectaries, but true Catholicks; and that our Church is a ſound Part of Chriſt's Holy Catholick Church. In 8<hi rend="sup">o</hi>. Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>Poetick Miſcellanies. In 8<hi rend="sup">o</hi>. Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The Chriſtian Monitor. Containing an Exhorta<g ref="char:EOLhyphen"/>tion to a Holy Life. Price 3 <hi>d.</hi> Thoſe that are Charita<g ref="char:EOLhyphen"/>bly diſpoſed, may have them for 20 <hi>s.</hi> the Hundred.</p>
+            <p>All Five written by the Reverend <hi>Jo. Rawlet,</hi> B.D. Author of the <hi>Chriſtian Monitor.</hi>
+            </p>
+            <p>A Collection of Miſcellanies, conſiſting of Poems, Eſſays, Diſcourſes and Letters. In large Octavo.</p>
+            <p>Theory and Regulation of Love; a Moral Eſſay, in two Parts: To which are added Letters Philoſo<g ref="char:EOLhyphen"/>phical and Moral, between the Author and Dr. <hi>More.</hi> The Second Edition. In Octavo.</p>
+            <p>Practical Diſcourſes upon the Beatitudes of our Lord and Saviour Jeſus Chriſt. To which are added Reflections upon a late Eſſay concerning Human Un<g ref="char:EOLhyphen"/>derſtanding. Vol. I. The third Edition. In large 8<hi rend="sup">o</hi>.</p>
+            <pb facs="tcp:97271:29"/>
+            <p>Practical Diſcourſes upon ſeveral Divine Subjects, Vol. III. In Octavo.</p>
+            <p>Practical Diſcourſes upon ſeveral Divine Subjects. Vol. IV. Price bound 5 <hi>s.</hi>
+            </p>
+            <p>Letters Philoſophical, Moral and Divine, to the Reverend Mr. <hi>J. Norris,</hi> with his Anſwers. In large 8<hi rend="sup">o</hi>.</p>
+            <p>Treatiſes upon ſeveral Subjects, formerly Printed Single, now Collected into one Volume, <hi>viz.</hi> I. Rea<g ref="char:EOLhyphen"/>ſon and Religion. II. Reflections upon the Conduct of Humane Life. III. The Charge of Schiſm con<g ref="char:EOLhyphen"/>tinued. IV. Two Treatiſes concerning Divine Light. V. Spiritual Counſel, or the Father's Advice to his Children.</p>
+            <p>All written by the Reverend Mr. <hi>John Norris,</hi> Rector of <hi>Bemerton</hi> near <hi>Sarum.</hi>
+            </p>
+            <p>An Eſſay concerning Humane Underſtanding, in Four Books. The third Edition with large Additi<g ref="char:EOLhyphen"/>ons. By <hi>John Locke</hi> Gent.</p>
+            <p>
+               <hi>Malebranch</hi>'s Search after Truth compleat, in two Volumes Octavo.</p>
+            <p>Practical Diſcourſes on the Parables of our Bleſſed Saviour. By F. <hi>Bragge</hi> Vicar of <hi>Hitchin</hi> in <hi>Hert<g ref="char:EOLhyphen"/>fordſhire.</hi>
+            </p>
+            <p>The <hi>Roman Hiſtory,</hi> from the building of the City, to the perfect Settlement of the Empire by <hi>Auguſtus Ceſar.</hi> By <hi>Laurence Echard</hi> A. M. of <hi>Chriſts College</hi> in <hi>Cambridge.</hi> Vol. I. The third Edition.</p>
+            <p>The <hi>Roman Hiſtory,</hi> from the Settlement of the Empire by <hi>Auguſtus Ceſar,</hi> to <hi>Conſtantine</hi> the Great. Vol. II.</p>
+            <p>A New Voyage into <hi>Italy,</hi> with neceſſary Inſtru<g ref="char:EOLhyphen"/>ctions for thoſe who undertake the ſame. By <hi>Maxi<g ref="char:EOLhyphen"/>lian Miſſon.</hi> In two Vol. Done out of <hi>French,</hi> and il<g ref="char:EOLhyphen"/>luſtrated with Sculptures.</p>
+            <pb facs="tcp:97271:29"/>
+         </div>
+      </back>
+   </text>
+</TEI>
